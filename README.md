@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning the languages of a data analyst
 - 🌱 I’m currently learning SQL and soon Tableau
 - 💞️ I’m looking to collaborate on SQL projects that will help me gain experience
-- 📫 How to reach me on here
+- 📫 How to reach me? On here
 - 😄 Pronouns: dude and bro
 - ⚡ Fun fact: I come from a sales and automotive background
 
